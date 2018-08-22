@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/spfxBoilerplate/SpfxBoilerplateWebPart.js",
+      "manifest": "./src/webparts/spfxBoilerplate/SpfxBoilerplateWebPart.manifest.json",
+      "outputPath": "./dist/spfx-boilerplate-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "SpfxBoilerplateWebPartStrings": "webparts/spfxBoilerplate/loc/{locale}.js"
+  }
+}

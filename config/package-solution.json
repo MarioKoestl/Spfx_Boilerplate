@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-boilerplate-client-side-solution",
+    "id": "29be547e-686f-4d0d-8b13-5c1da6ac16cf",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-boilerplate.sppkg"
+  }
+}
